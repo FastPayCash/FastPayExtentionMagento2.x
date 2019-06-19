@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:Magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="fastbazzar_success_template" label="Order Successful" file="fastbazzar/successemail.html" type="html" module="Fastpay_Fastbazzar" area="frontend"/>
+    
+    <template id="fastbazzar_fail_template" label="Order Failed" file="fastbazzar/failemail.html" type="html" module="Fastpay_Fastbazzar" area="frontend"/>
+    
+    <template id="fastbazzar_cancel_template" label="Order Canceled" file="fastbazzar/cancelemail.html" type="html" module="Fastpay_Fastbazzar" area="frontend"/>
+</config>
