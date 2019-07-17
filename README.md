@@ -41,6 +41,13 @@ Step 8: Navigate to STORES > Configuration > SALES > Payment Methods > Other Pay
 - Allowed Shipping Methods : Your Shipping Methods if have any.
 - Merchant ID : Your Valid Merchant ID that Provided from FastPay.
 - API Password : Your Valid Password that Provided from FastPay.
+
+  You can test with the following merchent creadentials:
+  
+	Merchant ID: +9641684405075
+	
+	Password: Password1@
+
 - Payment from Applicable Countries : Default / If haven't any. 
 - Payment from Specific Countries : Default / If haven't any. 
 - Instructions : Your Instructions.
@@ -56,13 +63,12 @@ Step 11: Do a test transaction.
 
 Thank You!
 
-*** Note : If your are using Magento email service then you can use this module.
+*** For the live Merchant ID please contact with integration@fast-pay.cash
 
 For any issue, feel free to contact any time.
 
 - Author : FastPay
-- Developed By : Leton Miah
-- Email : letoncse7@gmail.com
+- Developed By : FastPay Team
 - Team-Email: integration@fast-pay.cash
 - More info: https://secure.fast-pay.cash/docs
 
