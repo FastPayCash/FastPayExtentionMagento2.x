@@ -1,0 +1,12 @@
+<?php if($block->getPaymentMethod() == $block->getConfigPaymentData()) {?>
+<div class="rk button">
+	
+<?php
+    echo "<br><h2 align='center'>Order successfully initiated. Please wait we are redirecting you to FastPay...</h2><br>";
+    
+	
+	echo "<meta http-equiv='refresh' content='0;url=".$block->getPostData()."'>";
+	
+?>
+
+<?php } ?>
